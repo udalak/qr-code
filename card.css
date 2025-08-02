@@ -1,0 +1,31 @@
+body{
+    background-color:#d5e1ef;
+    text-align: center;
+}
+.card{
+    width:318px;
+    height: 500px;
+    background-color: white;
+    border-radius: 16px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0px 9px 20px 0px #8888884f;
+    padding: 1rem;
+}
+
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+h2{
+    font-size: 22px;
+    color:hsl(218, 44%, 22%) ;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: bold;
+
+}
+p{
+    color:hsl(216, 15%, 48%) ;
+}
